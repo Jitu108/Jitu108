@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Featured Projects
-- 🏥 <a href="https://curiticspulse.com/login" target="_blank" rel="noopener">Curitics Pulse 3.0</a> - Predictive analytics for risk adjustment using AI.
+- 🏥 <a href="https://curiticspulse.com/login" target="_blank">Curitics Pulse 3.0</a> - Predictive analytics for risk adjustment using AI.
 - ⚙️ SQL Performance Optimizer – Auto-analyzes procs, indexes, and execution plans.
 - 🤖 Agentic AI for Healthcare Scheduling – LLM-driven contact center automation.
 
