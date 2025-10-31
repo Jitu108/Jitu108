@@ -20,6 +20,7 @@
 ---
 
 ### 📝 Latest Blog Posts
+- [The Hidden Security Threat in AI-Enabled Browsers](https://www.linkedin.com/posts/jitendra-gupta-34862120_as-artificial-intelligence-becomes-increasingly-activity-7389810386260332544-xMuW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARc8qgBLbzZM-ma_roJiZjiKMgZJyAoijg)
 - [When the Half-Life of Technical Skill Is Shrinking Fast, Meta Skill Is the Real Skill to Acquire!](https://www.linkedin.com/posts/jitendra-gupta-34862120_metaskills-leadership-adaptability-activity-7386344538912645120-dln-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAARc8qgBLbzZM-ma_roJiZjiKMgZJyAoijg)
 - [Your AI Sees Patterns. It Doesn't Understand Them.](https://www.linkedin.com/pulse/when-correlation-misleads-hidden-risk-ai-jitendra-gupta-45avc/?trackingId=ddgZ8NRozdEG%2BwTL5eazJA%3D%3D)
 
